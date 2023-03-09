@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.whispersystems:signal-protocol-android:2.8.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/86eda7ac08f1d33affc65bc1bfd3de01/transformed/jetified-signal-protocol-android-2.8.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/258b1ef23d78bb7a0ac9f36a25e41f84/transformed/jetified-signal-protocol-android-2.8.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/258b1ef23d78bb7a0ac9f36a25e41f84/transformed/jetified-signal-protocol-android-2.8.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/258b1ef23d78bb7a0ac9f36a25e41f84/transformed/jetified-signal-protocol-android-2.8.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="1dp"
+    android:background="#837652"
+    android:clickable="true"
+    android:orientation="vertical"
+    app:cardBackgroundColor="#FFFFFF"
+    app:cardCornerRadius="2dp"
+    app:cardElevation="3dp"
+    app:cardMaxElevation="3dp"
+    app:contentPadding="5dp">
+
+    <TextView
+        android:id="@+id/contactList_forward"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#FFFAEA"
+        android:clickable="true"
+        android:layout_gravity="left"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/image_avatar_forward"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:background="@drawable/imageborder" />
+    <CheckBox
+        android:id="@+id/checkforwarduser"
+        android:src="@drawable/check_user_forward"
+        android:layout_gravity="bottom"
+android:theme="@style/MyCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+ />
+</androidx.cardview.widget.CardView>

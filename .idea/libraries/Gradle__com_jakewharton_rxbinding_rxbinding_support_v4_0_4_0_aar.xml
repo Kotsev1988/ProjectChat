@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.rxbinding:rxbinding-support-v4:0.4.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2c43029c92edabe3b78339bc4923c20f/transformed/jetified-rxbinding-support-v4-0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5e91fe62e7cff236da5dd0c8861b57da/transformed/jetified-rxbinding-support-v4-0.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5e91fe62e7cff236da5dd0c8861b57da/transformed/jetified-rxbinding-support-v4-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5e91fe62e7cff236da5dd0c8861b57da/transformed/jetified-rxbinding-support-v4-0.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/620f58549f0c39c7dc0aa3b6405aa9bf/transformed/jetified-rxbinding-support-v4-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/620f58549f0c39c7dc0aa3b6405aa9bf/transformed/jetified-rxbinding-support-v4-0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/620f58549f0c39c7dc0aa3b6405aa9bf/transformed/jetified-rxbinding-support-v4-0.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3d297bd7337534039781afdc326d3e3/transformed/jetified-rxbinding-support-v4-0.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d3d297bd7337534039781afdc326d3e3/transformed/jetified-rxbinding-support-v4-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3d297bd7337534039781afdc326d3e3/transformed/jetified-rxbinding-support-v4-0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eb8591ba91d1d625c213c50c08684280/transformed/jetified-rxbinding-support-v4-0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eb8591ba91d1d625c213c50c08684280/transformed/jetified-rxbinding-support-v4-0.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eb8591ba91d1d625c213c50c08684280/transformed/jetified-rxbinding-support-v4-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/20b59f34fd4feaf105933012038327d9/transformed/jetified-rxbinding-support-v4-0.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/20b59f34fd4feaf105933012038327d9/transformed/jetified-rxbinding-support-v4-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/20b59f34fd4feaf105933012038327d9/transformed/jetified-rxbinding-support-v4-0.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9a15d46ddf21f3ed148715e475eb911a/transformed/jetified-rxbinding-support-v4-0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9a15d46ddf21f3ed148715e475eb911a/transformed/jetified-rxbinding-support-v4-0.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9a15d46ddf21f3ed148715e475eb911a/transformed/jetified-rxbinding-support-v4-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/596eefc4aa61dc0b690b10121687e7b3/transformed/jetified-rxbinding-support-v4-0.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/596eefc4aa61dc0b690b10121687e7b3/transformed/jetified-rxbinding-support-v4-0.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding-support-v4/0.4.0/681003afd8e355d6e3bdb41e7957c79ed1f8c11c/rxbinding-support-v4-0.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding-support-v4/0.4.0/18360715a2a1c1e121ff4307e37cf10e593aee87/rxbinding-support-v4-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

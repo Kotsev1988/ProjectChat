@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.rxbinding:rxbinding-appcompat-v7:0.4.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9a3ea3e91325d78c6e9f93e99dbc72ac/transformed/jetified-rxbinding-appcompat-v7-0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53dd30114e1dcdb9766e30bdc1c5c9f3/transformed/jetified-rxbinding-appcompat-v7-0.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/53dd30114e1dcdb9766e30bdc1c5c9f3/transformed/jetified-rxbinding-appcompat-v7-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53dd30114e1dcdb9766e30bdc1c5c9f3/transformed/jetified-rxbinding-appcompat-v7-0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/24787046ccc3556213ee31402cfde37c/transformed/jetified-rxbinding-appcompat-v7-0.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/24787046ccc3556213ee31402cfde37c/transformed/jetified-rxbinding-appcompat-v7-0.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/24787046ccc3556213ee31402cfde37c/transformed/jetified-rxbinding-appcompat-v7-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7f00c0270a07311c56953ebb214d8a96/transformed/jetified-rxbinding-appcompat-v7-0.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7f00c0270a07311c56953ebb214d8a96/transformed/jetified-rxbinding-appcompat-v7-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7f00c0270a07311c56953ebb214d8a96/transformed/jetified-rxbinding-appcompat-v7-0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/920be7c561adc2761e16921eb1e13523/transformed/jetified-rxbinding-appcompat-v7-0.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/920be7c561adc2761e16921eb1e13523/transformed/jetified-rxbinding-appcompat-v7-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/920be7c561adc2761e16921eb1e13523/transformed/jetified-rxbinding-appcompat-v7-0.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/90d54b4daf54fc1d396921a37abe3ae2/transformed/jetified-rxbinding-appcompat-v7-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/90d54b4daf54fc1d396921a37abe3ae2/transformed/jetified-rxbinding-appcompat-v7-0.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/90d54b4daf54fc1d396921a37abe3ae2/transformed/jetified-rxbinding-appcompat-v7-0.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b8dc4bb42a7495d9e53d1bce6970c59/transformed/jetified-rxbinding-appcompat-v7-0.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5b8dc4bb42a7495d9e53d1bce6970c59/transformed/jetified-rxbinding-appcompat-v7-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b8dc4bb42a7495d9e53d1bce6970c59/transformed/jetified-rxbinding-appcompat-v7-0.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d7227a551bf213e6b8889bf17366c50c/transformed/jetified-rxbinding-appcompat-v7-0.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d7227a551bf213e6b8889bf17366c50c/transformed/jetified-rxbinding-appcompat-v7-0.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding-appcompat-v7/0.4.0/86e97ab8cf461771fca8b0a1eb38bfe2d1353978/rxbinding-appcompat-v7-0.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding-appcompat-v7/0.4.0/d28a11f8b17a7f64cc410e5f02207d81f0234f69/rxbinding-appcompat-v7-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

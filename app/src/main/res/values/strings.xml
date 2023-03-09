@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Chaty</string>
+    <string name="send">SEND</string>
+    <string name="pic">pic</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_chat_page">chatPage</string>
+    <string name="enter_message">enter_message</string>
+    <string name="title_activity_create_group">CreateGroup</string>
+    <string name="create_group">Создать группу</string>
+    <string name="addAvatar">Мое фото</string>
+    <string name="addContent">Добавить контент</string>
+    <string name="title_activity_chat_page2">chatPage2</string>
+    <string name="tab_text_1">Messages</string>
+    <string name="tab_text_2">Contents</string>
+    <string name="title_activity_new_chat_page">newChatPage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_forward">ForwardActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_fullscreen_video">FullscreenActivityVideo</string>
+    <string name="title_activity_fullscreen2">FullscreenActivity2</string>
+    <string name="title_activity_fullscreen3">FullscreenActivity3</string>
+    <string name="title_activity_screen_slide_pager">ScreenSlidePagerActivity</string>
+
+
+</resources>

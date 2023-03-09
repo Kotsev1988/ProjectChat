@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:dagger-android-support:2.17@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3f75244afcc36a01b7e66b093675eee1/transformed/jetified-dagger-android-support-2.17/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5ef367690064fe075cb04aee2ae9fa2c/transformed/jetified-dagger-android-support-2.17/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5ef367690064fe075cb04aee2ae9fa2c/transformed/jetified-dagger-android-support-2.17/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5ef367690064fe075cb04aee2ae9fa2c/transformed/jetified-dagger-android-support-2.17/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/65cc95afcc4a6b28db479eebd05060b7/transformed/jetified-dagger-android-support-2.17/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/65cc95afcc4a6b28db479eebd05060b7/transformed/jetified-dagger-android-support-2.17/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/65cc95afcc4a6b28db479eebd05060b7/transformed/jetified-dagger-android-support-2.17/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eb78574924528236507c6ca578ce1e28/transformed/jetified-dagger-android-support-2.17/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eb78574924528236507c6ca578ce1e28/transformed/jetified-dagger-android-support-2.17/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eb78574924528236507c6ca578ce1e28/transformed/jetified-dagger-android-support-2.17/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cd37268b63f56b914a2cf1a3c63670f2/transformed/jetified-dagger-android-support-2.17/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cd37268b63f56b914a2cf1a3c63670f2/transformed/jetified-dagger-android-support-2.17/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cd37268b63f56b914a2cf1a3c63670f2/transformed/jetified-dagger-android-support-2.17/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6e03e8ab6b9e6b5067fbcbaaf66afbf6/transformed/jetified-dagger-android-support-2.17/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6e03e8ab6b9e6b5067fbcbaaf66afbf6/transformed/jetified-dagger-android-support-2.17/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6e03e8ab6b9e6b5067fbcbaaf66afbf6/transformed/jetified-dagger-android-support-2.17/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/949c4fadbbc0e5af1063f7b85dd98016/transformed/jetified-dagger-android-support-2.17/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/949c4fadbbc0e5af1063f7b85dd98016/transformed/jetified-dagger-android-support-2.17/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/949c4fadbbc0e5af1063f7b85dd98016/transformed/jetified-dagger-android-support-2.17/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ea9443c8f2381709ba9d45656afa1ec2/transformed/jetified-dagger-android-support-2.17/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ea9443c8f2381709ba9d45656afa1ec2/transformed/jetified-dagger-android-support-2.17/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-android-support/2.17/58ba62a8561e275be82b3cb9f0f17268fb922e69/dagger-android-support-2.17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-android-support/2.17/daa6c5bef280e23288dfd864047b77d88edabd1e/dagger-android-support-2.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

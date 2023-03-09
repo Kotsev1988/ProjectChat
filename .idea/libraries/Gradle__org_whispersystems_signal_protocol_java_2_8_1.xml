@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.whispersystems:signal-protocol-java:2.8.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.whispersystems/signal-protocol-java/2.8.1/5055ef36539577e55c1feadf91bb1c89a7f38cd8/signal-protocol-java-2.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.whispersystems/signal-protocol-java/2.8.1/1290817e9114f40611d8b34f6d3912ba65e030a2/signal-protocol-java-2.8.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.whispersystems/signal-protocol-java/2.8.1/f9eda3ddca082711621d56ab3c277a4b73ab670b/signal-protocol-java-2.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
